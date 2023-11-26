@@ -5,9 +5,6 @@
 #include <algorithm>
 #include <omp.h>     // for OpenMP
 
-#include "Point3D.h"
-#include "Vector3D.h"
-
 #include "Curves.h"
 #include "Circles.h"
 #include "Elipses.h"
