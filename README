@@ -1,0 +1,6 @@
+The parameter "t" is expressed in the Radians.
+
+Program can multithreading sum using openMP.
+
+To run this program under linux run go to the CADEX directory and run "build.sh" in terminal. 
+By default first array has 150000 elements, you can change it in main.cpp file.
